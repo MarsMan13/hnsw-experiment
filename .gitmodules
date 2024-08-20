@@ -1,0 +1,3 @@
+[submodule "weaviate-benchmarking"]
+	path = weaviate-benchmarking
+	url = https://github.com/weaviate/weaviate-benchmarking.git
